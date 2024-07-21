@@ -84,7 +84,7 @@ let user1 = {
   age4,
   [gender + "Gender"]: true,
 };
-console.log(user1);
+console.log(user1); 
 
 
 
