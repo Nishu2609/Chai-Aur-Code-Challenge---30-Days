@@ -1,3 +1,4 @@
+// Need to work on this more ..
 // Activity 01 - DOM Manipulations
 // Task 01
 
